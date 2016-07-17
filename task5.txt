@@ -1,0 +1,29 @@
+
+a) Join this course on EdX:
+
+https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0
+
+It is a very basic course - you can take a few weeks to complete it - just
+spend a small amount of time every day.
+
+b) Doing the Python/Algorithms MOOC on NPTEL:
+
+https://onlinecourses.nptel.ac.in/noc16_cs11/announcements
+
+Please keep up with the schedule ... submit assignments on time.
+
+If you do the course well, you may think of writing the final 
+exam (a small amount has to be paid) to get a certificate (writing the
+paid exam is entirely optional...)
+
+c) Download:
+
+http://pramode.net/downloads/shellbasics.tgz
+
+Untar and it and read  the two pdf files - work out all the sample
+commands given in the document on your system. Experiment as much as
+you can.
+
+Time: 2 days.
+
+ 
