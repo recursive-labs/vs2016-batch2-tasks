@@ -1,0 +1,71 @@
+
+Learn Python basics using the famous "google python class":
+
+https://developers.google.com/edu/python/
+
+Cover all sections from "Overview" to "Utilities".
+
+Time: 2 days should be enough.
+--------------------------------------------------------
+
+If you find the above resource to be a bit too concise, you can
+work out all the chapters in Part-1 of this basic text:
+
+https://automatetheboringstuff.com/#toc
+
+(This  book uses Python 3; you can get Python3 on your machine simply
+by typing "python3" instead of  "python". Please try out the code samples
+on Python 2 also).
+
+Time: 3 days should be enough.
+--------------------------------------------------------
+
+You can do either of the above. You need to properly learn about: basic data types(int/real,
+list,tuple,string,dict,set), control structures and looping (if/while/for),
+functions, list comprehensions. 
+
+No need to get into classes/object oriented programming at
+the moment; you can do it later.
+
+There are two versions of Python - 2 and 3. If the book you are doing is based
+on Python2, make sure you try out code samples in Python3 also - and vice versa.
+
+---------------------------------------------------------
+
+
+Note:
+
+a) Some students had started working out a book called "think python" some time back. 
+They can stop that for the moment and focus on the tasks I assign.
+
+b) When working out text-books, please put up all the sample code/exercise solutions
+in a git repo, properly organized by individual chapter (or section, whatever).
+
+c) Do NOT put up exercise solutions of the MOOC's you are doing on github; making
+solutions publically visible is against course rules. A suggestion is to create 
+an account on:
+
+https://about.gitlab.com/gitlab-com/
+
+I haven't used it personally, but they are fast  becoming a competitor for github.
+I believe gitlab lets you create  "private" repositories. You can put  up MOOC
+exercise solutions (for the moment, the Python MOOC on NPTEL online) in a private
+repo on gitlab.
+
+It is *highly* recommended that you try it out. Please post on the group if
+you succeed in creating private repo's on gitlab. 
+
+d) You have to do the current task + Python and Linux MOOC's in parallel. 
+
+e) There are some other good books for Python:
+
+http://greenteapress.com/thinkpython/html/index.html
+
+http://www.diveintopython.net/toc/index.html  
+
+For this task, you are supposed to work out either the "google python class"
+or Part-1 of the "automate the boring stuff with  python" book - but you can
+very well refer (d) and (e) and of course make  use of any other resources 
+out there on the Net!
+
+
