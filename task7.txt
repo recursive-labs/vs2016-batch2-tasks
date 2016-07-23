@@ -6,4 +6,13 @@ https://developers.google.com/edu/python/exercises/basic
 
 https://developers.google.com/edu/python/exercises/baby-names
 
+---
 
+Note: for doing the baby names exercise, you will need to use 
+"regular expressions":
+
+https://developers.google.com/edu/python/regular-expressions
+
+https://docs.python.org/3/howto/regex.html
+
+http://www.tutorialspoint.com/python/python_reg_expressions.htm
