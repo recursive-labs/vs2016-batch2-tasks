@@ -1,0 +1,9 @@
+
+Finish the first two "Python Exercises" given in
+Google python class (basic, baby names):
+
+https://developers.google.com/edu/python/exercises/basic
+
+https://developers.google.com/edu/python/exercises/baby-names
+
+
