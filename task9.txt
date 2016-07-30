@@ -1,0 +1,11 @@
+
+Finish the next two exercises in the google python
+class (copy special and log puzzle).
+
+https://developers.google.com/edu/python/exercises/copy-special
+
+https://developers.google.com/edu/python/exercises/log-puzzle
+
+Time: 3 days
+
+
