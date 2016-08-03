@@ -1,0 +1,10 @@
+
+Read and work out all the sample code/exercises
+in chapters 8, 9, 10 of the book "automate boring 
+stuff with Python":
+
+https://automatetheboringstuff.com/#toc
+
+Time: 3 days
+
+
