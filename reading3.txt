@@ -1,0 +1,23 @@
+
+Going to conferences, reading journals etc are
+good ways to increase the depth and breadth of your
+understanding regarding a technology.
+
+Here is a list of talks presented during PyCon 2016:
+
+https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw
+
+
+Look at the abstracts of a few videos and watch any one video
+fully.
+
+Create a brief 1 page writeup (using Open/LibreOffice or LaTeX -
+it is highly recommended that you try out LaTeX if you haven't
+done it before) explaining the key ideas presented in the talk.
+
+Put up the PDF version of this writeup in a github repo called 
+"pycon-talks" and mail the link to the group.
+
+Please complete this within 4 days.
+
+
