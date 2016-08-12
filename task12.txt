@@ -13,4 +13,5 @@ Put up the solutions in a separate github repo
 
 Note: This is a highly rated text book on Python.
 
+Time: 3 days
 
