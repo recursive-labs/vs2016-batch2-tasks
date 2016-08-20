@@ -1,0 +1,11 @@
+
+Read this short chapter of  Zed Shaw's famous python
+book:
+
+http://learnpythonthehardway.org/book/advice.html
+
+
+Send an email to the group stating which sentence(s) you 
+found most interesting in the article.
+
+
