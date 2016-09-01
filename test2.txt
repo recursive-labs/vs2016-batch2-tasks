@@ -1,0 +1,117 @@
+
+Part - 1. Do this without the help of a computer/calculator. No google.
+
+(This is *elementary* stuff; you can skip it if you are sure
+you can tell the hex value of say 65535 in your sleep).
+------------------------------------------------------------------------
+
+a)Convert the decimal value 567 to binary 
+
+b)Convert the binary value you got in (a) to hexadecimal
+
+c)Convert the decimal value 567 to octal
+
+d)Convert the decimal value 255 to binary and then hex
+
+e)Convert the decimal value 65535 to binary and then hex
+
+f)Write down the first 20 hexadecimal numbers as a sequence 
+(like this: 0,1,2,3,4,5,6,7,8,9, ....)
+
+g)Write down the first 20 octal numbers as a sequence
+
+h)Add the two hex numbers: 0xAB and 0xe4 (do this without converting
+them to any other base)
+
+i)Let's say ones(i) represents the number of ones in the binary representation
+of a number i. What is 
+
+ones(0) + ones(1) + ones(2) + ones(4) + ones(8) +
+ones(16) + ones(32) + ones(64) + .... + ones(2048) 
+
+j)The least significant bit of an even number is always a 0; true or false?
+
+-----------------------------------------------------
+
+Part 2.(You might have to read up on signed numbers, 2's complement
+representation etc on the net to answer the questions. Note that these
+are very *basic* ideas - you MUST learn these things properly). 
+
+Note: Please don't copy-paste code from Google/stackoverflow etc. You 
+can use the net to understand concepts, but the code you  write should
+be your own. Otherwise, you will be fooling yourself.
+
+
+a) Write a C program to print the number -1 as an unsigned  hexadecimal
+value. What do you get? Why do you get this number?
+
+b) Represent the following numbers as 4 bit binary patterns. Use 2's complement
+arithmetic.
+
+0, 1, 2, 3, 4, 5, 6, 7
+-1, -2,  -3, -4, -5, -6, -7, -8
+
+c) What is the maximum positive value which can be represented by an N bit signed
+number, assuming the representation shown in (b). What is the maximum negative
+value?
+
+d) Write a C program to see what happens when a signed postive integer overflows.
+
+e) Write a C program to see  what happens when an unsigned positive integer overflows.
+
+f) Write a Python program to read an integer from the keyboard and
+   print the value of its LSB.
+
+g) Write a Python program to read two integers: A and N from the keyboard.
+   The program should print value of N'th bit of A (LSB is bit0, the bit to the 
+   immediate left of the LSB is bit1 and so on ...). The program should use
+   bit operations (and NOT arithmetic operations) to do this. All the remaining
+   programs in this section MUST also use bit operations.
+
+h) Write a C function which accepts an integer value and returns the number of
+   bits whose value is 1 (for example, if the number is 3, there are two bits whose
+   value is 1 - other bits are zeros).
+
+i) What is the time complexity of the above function in terms of N where N is
+   the number of bits used to represent the number? (for example, an "int" in C
+   is 32 bits in size. When you store an integer say  3 in an "int", you are
+   actually storing 00000000000000000000000000000011)
+
+j) Note: advanced question. Is it possible to have a faster version of (h).  Do
+   some research on the net and test out some sample code, if possible.
+
+k) Use the C  printf function to print the value of ~0:
+
+     printf("%d", ~0)
+
+   Try this in Python also.
+
+   Explain why you are getting the output which you see.
+
+l) Write a Python program to read two numbers A and N (0 <= N <= 31);
+   print back A (in decimal) with its Nth bit cleared to 0 and all other bits  
+   unchanged.
+
+m) Write a Python program to read two numbers A and N (0 <= N <= 31);
+   print back the decimal value formed by the least significant 
+   N bits of A (for example, if A = 255 and  N=3, 
+   the answer should be 7 because the least significant N bits of 255 form
+   the pattern 1 1 1 which is decimal  7).
+
+---------
+
+Note on solution submission: You should submit a text file with 
+the required answers plus all the C/Python code which you wrote.
+
+The individual program files (.c or .py files) should contain a
+comment mentioning the question whose solution is contained  in 
+that file.
+
+You should place the text file + all source files in a separate
+directory and create a .tgz file. Mail me that file (to my personal
+id) as attachment.
+
+-----------             
+
+
+
