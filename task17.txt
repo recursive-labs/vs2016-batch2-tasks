@@ -1,5 +1,5 @@
 
-Read and understand:
+Read and understand perfectly:
 
 http://www.openbookproject.net/py4fun/huffman/huffman.html
 
@@ -13,4 +13,4 @@ running JS:
 
 https://nodejs.org/en/
 
-
+Time: 2 days
