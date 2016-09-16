@@ -3,4 +3,4 @@ Chapters 9 and 10 (unit testing,refactoring) of:
 
 http://www.diveintopython3.net/table-of-contents.html
 
-
+Time: 2 days
