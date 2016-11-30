@@ -1,0 +1,9 @@
+
+Continue with Django by completely working
+out the official Django tutorial:
+
+https://docs.djangoproject.com/en/1.10/intro/tutorial01/
+
+(put up all the code you write in a separate github
+repo)
+
