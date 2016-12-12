@@ -1,0 +1,23 @@
+
+Create a Django application which can do the 
+following:
+
+a) You can create a new account and log-in (just like
+any e-commerce site).
+
+b) Once logged in, you can post a photo and a  description
+of an item you want to sell. The description should include
+a brief title as well as a more detailed body.
+
+c) When somebody visits the home page of the site (whether he is
+logged in or not), he should be
+able to see all the items which have been put up for sale. The
+items should be displayed as thumbnail images (the thumbnails should
+be generated from the posted photo automatically. There are python
+libraries which can do this). Each thumbnail should be followed by
+the title corresponding to that item. The title should be clickable -
+when you click on it, you should be taken to another page which 
+contains the original photo as well as description of the item.
+
+Time: 4 days
+
