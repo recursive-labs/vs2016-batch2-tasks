@@ -1,0 +1,24 @@
+
+a) Understand what is meant by a "REST API":
+
+https://www.youtube.com/watch?v=-W5GVW4Vwlw&index=20&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+(you can also use other resources on the net)
+
+b) Check out the twitter REST API:
+
+https://dev.twitter.com/rest/public
+
+c) Write a simple Python program which will read the name of a twitter user
+(say pramode_ce, which is my twitter name) and display the last 20 tweets of the
+user. Do NOT use any high-level twitter API's available for Python. Use only the
+"requests" module in Python http://docs.python-requests.org/en/master/) and the
+twitter REST API.
+
+d) Write a very simple django app which will have the provision to enter the
+name of a twitter user - the app will then display the last 20 tweets on the
+web page. You can use the "jquery" javascript library to display the tweets on
+the same page. You should use "twitter bootstrap" (http://getbootstrap.com/2.3.2/) css
+framework to style your web page.
+
+
