@@ -1,0 +1,50 @@
+
+Note:
+
+You need to do only ONE of the two projects given below; choose whatever
+you like.
+
+The students who complete this project properly will have an opportunity to participate
+in the selection process of a cochin based company looking for Django developers.
+You should write the code cleanly; it will be reviewed by the people at the 
+company.
+
+Time limit: 3 days. Please try to complete within the deadline.
+
+After completion, please put up the code on github and mail me the link (personal
+mail only).
+
+You are NOT supposed to collaborate with your friends - PLEASE DO THIS IN A
+TOTALLY INDEPENDENT WAY. Please take this VERY SERIOUSLY.
+
+The user interface of your project should be reasonably attractive - it will be good if you 
+use the "twitter bootstrap" CSS framework
+
+Try to make use of the "jquery" javascript library to show results in
+the same page (use jquery AJAX).
+
+---------------
+1) Create a personal currency conversion app in django.
+
+* User should have an option to signup and login.
+* A simple ui to enter currencies for conversion  (Example: USD to SGD)
+* Record above user activities in any database as a string and show in admin panel 
+- String example("USD 1 to INR at 22-12-2016")
+* Try to show results in the same UI.
+*(Optional) You can use http://fixer.io/ for api service in currency conversion.
+* No need to provide date in currency conversion api call.
+* User should have a choice between these five currencies -  USD, EUR, INR, SGD, GBP 
+
+
+___________________________________________________________
+
+
+2) Develop a simple RSS reader. The interface is a web page that accepts an RSS URL and 
+lays it out on a web page in a simple but visually appealing manner.
+
+* User signup and login needed.
+* UI to enter RSS link and show RSS results in same page.
+
+You can use the following feed for testing purposes 
+http://feeds.bbci.co.uk/news/rss.xml 
+
